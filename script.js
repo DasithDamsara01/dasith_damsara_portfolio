@@ -137,7 +137,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'illustrator': [
             { title: 'Visiting card', 
              desc: 'Detailed vector portrait created in Adobe Illustrator.', 
-             img: 'apex-motors-vcard .jpg' },
+             img: 'images/apex-motors-vcard.jpg' },
             
             { title: 'Modern Brand Logo', 
              desc: 'Minimalist corporate identity logo design.',
