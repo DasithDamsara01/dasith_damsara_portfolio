@@ -161,7 +161,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 title: 'My Other Creative Portfolio Website', 
                 desc: 'This is a live preview of my responsive front-end design project. Scroll inside to explore.', 
                 img: 'images/portfolio-site.png', 
-                link: 'https://dasithdamsara.github.io/my-other-project/' // 👈 දසිත්, ඔයා පෙන්වන්න ඕනේ වෙබ් අඩවියේ ඇත්තම ලින්ක් එක මෙතනට දාන්න!
+                link: 'https://dasithdamsara01.github.io/dasithdamsara.github.io/' // 👈 දසිත්, ඔයා පෙන්වන්න ඕනේ වෙබ් අඩවියේ ඇත්තම ලින්ක් එක මෙතනට දාන්න!
             }
         ]
     };
